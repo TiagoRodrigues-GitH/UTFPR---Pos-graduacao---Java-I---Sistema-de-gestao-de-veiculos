@@ -46,7 +46,6 @@ Events (ActionListener).
 
 ## ▶️ How to run
 
-### Console version (Activity 07)
-```bash
+### Console version 
 javac *.java
 java Teste
