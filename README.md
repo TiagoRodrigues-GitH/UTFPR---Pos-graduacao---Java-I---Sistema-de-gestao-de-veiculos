@@ -1,20 +1,16 @@
 # 🚗 Vehicle Management System - Java (Console and GUI)
 Concepts:
-Abstract and final classes
-Inheritance and polymorphism
-Encapsulation
-Checked exceptions
-Interface
-Arrays
-Java Swing (manual GUI)
-Events (ActionListener)
+Abstract and final classes,
+Inheritance and polymorphism,
+Encapsulation,
+Checked exceptions,
+Interface,
+Arrays,
+Java Swing (manual GUI),
+Events (ActionListener).
 
 
 ## 🧱 Project Structure (based on the diagram)
-
-<img width="720" height="651" alt="Captura de tela 2026-06-01 144641" src="https://github.com/user-attachments/assets/e01df40f-2161-49dd-b8a7-3780e711799f" />
-
-<img width="809" height="465" alt="Captura de tela 2026-06-01 144618" src="https://github.com/user-attachments/assets/c3679675-6ce6-4a5b-8ee0-35131ada5fd5" />
 
 - `Veiculo` (abstract)
 - `Passeio` (final) - Passenger vehicle
@@ -47,3 +43,8 @@ Events (ActionListener)
 ```bash
 javac *.java
 java Teste
+
+<img width="720" height="651" alt="Captura de tela 2026-06-01 144641" src="https://github.com/user-attachments/assets/e01df40f-2161-49dd-b8a7-3780e711799f" />
+
+<img width="809" height="465" alt="Captura de tela 2026-06-01 144618" src="https://github.com/user-attachments/assets/c3679675-6ce6-4a5b-8ee0-35131ada5fd5" />
+
